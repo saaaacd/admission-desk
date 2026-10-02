@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ntu",
+    "name": "臺灣大學",
+    "short": "台大",
+    "group": "四大",
+    "city": "臺北",
+    "apply": "https://exam.aca.ntu.edu.tw/graf/",
+    "source": "https://exam.aca.ntu.edu.tw/graf/brochure/",
+    "pdf": "https://exam.aca.ntu.edu.tw/graf/brochure/116/first.pdf",
+    "docTitle": "簡章共同規定"
+  },
+  {
+    "id": "nthu",
+    "name": "清華大學",
+    "short": "清大",
+    "group": "四大",
+    "city": "新竹",
+    "apply": "http://www.ccxp.nthu.edu.tw/ccxp/adms/index.php?EX_CODE=MQ",
+    "source": "https://adms.site.nthu.edu.tw/p/406-1207-314011,r323.php?Lang=zh-tw",
+    "pdf": "https://adms.site.nthu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9Mekl5TDNCMFlWOHhOelEzT1RaZk16UTJPRFE0T1Y4MU9UWXdOUzV3WkdZPQ==&fname=WW54RPOKIC4411MPEDLK3024DCMOGD1414JCCCYSTXZTXW40DCMKSTPOWW54FGOKROPOEH00VS0410WWMOHCTSLOOPB0WSGCA1JDNOTSUWZW01FGSSOK24FCLO4055ZXDGA054WSVW30HCLKUSB0ZWNPNPGDQPROUWDC45KLWSHGA4B0RKKKZX10B010UWYWMKJGTSKOQOJCTWICZTA1LKQPSWYWKORK00SSPKROKK04POPO",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "nycu",
+    "name": "陽明交通大學",
+    "short": "陽明交大",
+    "group": "四大",
+    "city": "新竹・臺北",
+    "apply": "https://apply.nycu.edu.tw/",
+    "source": "https://exam.nycu.edu.tw/ma-md.html",
+    "pdf": "https://exam.nycu.edu.tw/apfiles/action.aspx?id=cea594c0-a1af-4146-a2e6-c5d7b9c8ab9c",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "ncku",
+    "name": "成功大學",
+    "short": "成大",
+    "group": "四大",
+    "city": "臺南",
+    "apply": "https://campus4.ncku.edu.tw/wwwmenu/program/net/new/net1/login.php",
+    "source": "https://adms-acad.ncku.edu.tw/p/406-1044-227147,r3265.php?Lang=zh-tw",
+    "pdf": "https://adms-acad.ncku.edu.tw/var/file/44/1044/img/375725349.pdf",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "ncu",
+    "name": "中央大學",
+    "short": "中央",
+    "group": "四中",
+    "city": "桃園",
+    "apply": "https://cis.ncu.edu.tw/ExamRegister/",
+    "source": "https://admission.ncu.edu.tw/zh-TW/content/82/13",
+    "pdf": "https://admission.ncu.edu.tw/files/system/files/57143/%E7%94%84%E8%A9%A6%E7%B0%A1%E7%AB%A0/%E5%85%B1%E5%90%8C/0-116%E7%A2%A9%E5%8D%9A%E7%B0%A1%E7%AB%A0(%E6%9C%89%E5%8D%B0).pdf",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "nchu",
+    "name": "中興大學",
+    "short": "中興",
+    "group": "四中",
+    "city": "臺中",
+    "apply": "https://recruit.nchu.edu.tw/grade-exam/sele/sele-Enterselect.aspx",
+    "source": "https://recruit.nchu.edu.tw/grade-exam/sele/116/116sele_PAPER.aspx",
+    "pdf": "https://recruit.nchu.edu.tw/grade-exam/sele/116/116sele_PAPER.pdf",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "ccu",
+    "name": "中正大學",
+    "short": "中正",
+    "group": "四中",
+    "city": "嘉義",
+    "apply": "https://exams.ccu.edu.tw/p/403-1032-2830.php?Lang=zh-tw",
+    "source": "https://exams.ccu.edu.tw/var/file/32/1032/img/1133/s2_announce.html",
+    "pdf": "https://exams.ccu.edu.tw/var/file/32/1032/img/1133/s2_anno116.pdf",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "nsysu",
+    "name": "中山大學",
+    "short": "中山",
+    "group": "四中",
+    "city": "高雄",
+    "apply": "https://exam-acad.nsysu.edu.tw/main/exam_system_main.php?examno=11",
+    "source": "https://exam-acad.nsysu.edu.tw/exam_netlist/netlist_main.php?ExmNo=11",
+    "pdf": "https://exam-acad.nsysu.edu.tw/exam_netlist/pdf_file/aca/TWpZeE1URXhObVZzWlY5aWNtbGxabDloWTJFeU1ESTJNRGt5TXc9PQ==.pdf",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "ntust",
+    "name": "臺灣科技大學",
+    "short": "台科大",
+    "group": "兩科",
+    "city": "臺北",
+    "apply": "https://www.ntust.edu.tw/116entry1/",
+    "source": "https://www.admission.ntust.edu.tw/p/406-1052-151133,r1538.php?Lang=zh-tw",
+    "pdf": "https://www.admission.ntust.edu.tw/var/file/52/1052/img/876390610.pdf",
+    "docTitle": "完整招生簡章"
+  },
+  {
+    "id": "ntut",
+    "name": "臺北科技大學",
+    "short": "北科大",
+    "group": "兩科",
+    "city": "臺北",
+    "apply": "https://graduate.ntut.edu.tw/",
+    "source": "https://graduate.ntut.edu.tw/p/406-1135-157148,r2827.php?Lang=zh-tw",
+    "pdf": "https://graduate.ntut.edu.tw/var/file/135/1135/img/753759896.pdf",
+    "docTitle": "完整招生簡章"
+  }
+]
